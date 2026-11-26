@@ -18,3 +18,6 @@ A Python data-analysis project exploring **Orange County SC's** 2026 USL Champio
 * **Python 3** & **`pandas`** (data cleaning, filtering, vectorized metrics, `.groupby()`)
 * **Google Colab** (interactive notebooks)
 * **Data Sources:** FBref & American Soccer Analysis (`itscalledsoccer`)
+
+11/26/26
+**Expected Goals & Threat (`notebooks/Day_9_OCSC_Goals_Above_xG.ipynb`):** Analyzed `goals - xG` finishing variance and `xGA_per_90` leaders for 450+ minute Orange County SC regulars.
